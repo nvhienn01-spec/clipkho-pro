@@ -16,6 +16,7 @@ Vào **[Releases → bản mới nhất](https://github.com/nvhienn01-spec/clipk
 - **Nhóm kênh:** lưu các kênh hay dùng thành nhóm. Link video được tự đổi thành link kênh, kênh trùng được tự bỏ.
 - **Tải theo link:** dán nhiều link video / ảnh, bấm Quét link để xem ảnh bìa, lượt xem, ngày đăng... như trang kênh, rồi tích chọn và tải.
 - **Tìm theo từ khóa:** tìm video trên TikTok theo từ khóa, chọn khu vực / thời gian đăng, lọc theo lượt xem, thích, bình luận, chia sẻ (cần API key).
+- **Cookie TikTok:** dán chuỗi cookie (dạng `ten=gia_tri; ...`) ở trang Cấu hình để yt-dlp quét / tải ít bị chặn, đỡ tốn lượt API.
 - **Xuất Excel (.xlsx):** xuất danh sách video đã quét.
 - **Quét lại khi lỗi:** kênh lỗi được thử lại bằng cách miễn phí trước, rồi mới dùng API key.
 - **Tự cập nhật:** tool tự kiểm tra bản mới ở trang này khi mở. Bạn cũng có thể vào **Cấu hình → Cập nhật phần mềm → Kiểm tra cập nhật**.
